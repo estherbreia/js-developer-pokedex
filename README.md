@@ -17,3 +17,7 @@ Bem-vindo ao projeto de Pokédex! Esse é um aplicativo web que permite visualiz
 - **JavaScript**: Para a manipulação da DOM, lógica de funcionalidades e integração com a API.
 - **HTML** e **CSS**: Estrutura e estilos da interface do usuário.
 - **PokéAPI**: API pública para obter informações detalhadas de Pokémon.
+
+## Créditos
+Desenvolvido como parte de um projeto educacional da Digital Innovation One.
+
